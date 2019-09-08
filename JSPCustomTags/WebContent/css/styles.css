@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+table {
+	border-collapse: collapse;
+}
+
+table.container {
+	border: solid gray 2px;
+}
+
+table.container td {
+	border: solid gray 1px;
+}
+
+table.container img {
+	border-color: black;
+}
